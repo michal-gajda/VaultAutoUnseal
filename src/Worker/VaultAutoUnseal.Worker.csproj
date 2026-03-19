@@ -4,7 +4,6 @@
     <TargetFramework>net10.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>dotnet-VaultAutoUnseal.Worker-e20919e5-77fe-4a37-926a-dff8e7b2bf36</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
